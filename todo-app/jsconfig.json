@@ -1,0 +1,5 @@
+{
+    "compileOption":{
+        "target": "es6"
+    }
+}
